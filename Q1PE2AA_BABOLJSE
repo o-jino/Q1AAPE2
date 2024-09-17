@@ -1,0 +1,108 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+
+import java.util.*;
+public class Q1PE2_BabolJSE {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(   System.in);
+        
+        System.out.print("input: ");
+            int in= sc.nextInt();
+        if(in==0)
+           System.out.println("zero");
+        if(in==111111)
+           System.out.println("Sixty three");    
+        if(in==111110)
+           System.out.println("sixty Two");
+        if(in==111100)
+           System.out.println("Sixty");    
+        if(in==111000)
+           System.out.println("fifty Six");
+        if(in==110000)
+           System.out.println("forty eight");    
+        if(in==100000)
+           System.out.println("thirty two");
+        
+         if(in==000001)
+           System.out.println("one");
+        if(in==000011)
+           System.out.println("three");    
+        if(in==000111)
+           System.out.println("seven");
+        if(in==001111)
+           System.out.println("fifteen");    
+        if(in==011111)
+           System.out.println("thirty one");
+        
+        //here
+        
+        if(in==101)
+           System.out.println("five");
+        if(in==1101)
+           System.out.println("thirteen");    
+        if(in==11101)
+           System.out.println("twenty nine");
+        if(in==111101)
+           System.out.println("fifteen");    
+        
+        if(in==1011)
+           System.out.println("eleven");
+        if(in==11011)
+           System.out.println("twenty seven");
+        if(in==111011)
+           System.out.println("fifty nine");  
+        
+        if(in==10111)
+           System.out.println("twenty three");
+        if(in==110111)
+           System.out.println("fifty five");
+        
+        if(in==101111)
+           System.out.println("forty seven");
+        
+        if(in==1001)
+           System.out.println("nine");
+        if(in==11001)
+           System.out.println("twenty five");    
+        if(in==111001)
+           System.out.println("fifty seven");
+        
+        if(in==10001)
+           System.out.println("seventeen");    
+        if(in==110001)
+           System.out.println("forty nine");
+        
+        if(in==100001)
+           System.out.println("thirty three");
+        
+        if(in==10101)
+           System.out.println("twenty one");    
+        if(in==110101)
+           System.out.println("fifty three");
+        
+        if(in==101001)
+           System.out.println("forty one"); 
+        if(in==100101)
+           System.out.println("thirty seven"); 
+        
+        if(in==10110)
+           System.out.println("twenty two");
+        if(in==110110)
+           System.out.println("fifty four"); 
+        
+        if(in==101110)
+           System.out.println("forty six"); 
+        if(in==110100)
+           System.out.println("fifty two");
+        if(in==101000)
+           System.out.println("forty"); 
+        if(in==100110)
+           System.out.println("thirty eight");
+        if(in==101010)
+           System.out.println("forty two");
+        
+        if(in==1010)
+           System.out.println("ten"); 
+        
